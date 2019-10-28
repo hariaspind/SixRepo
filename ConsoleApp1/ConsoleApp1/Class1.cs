@@ -12,7 +12,10 @@ namespace ConsoleApp1
         string yy = "Editing in Github";
         public int Add(int x1, int x2)
         {
-            return x1 + x2;             
+            Int32 x1 = 1;
+            Int32 x2 = 2;
+            int sum = x1 + x2;
+            return sum;
         }
 
     }
