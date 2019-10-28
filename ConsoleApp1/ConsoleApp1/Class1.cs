@@ -9,6 +9,6 @@ namespace ConsoleApp1
     class Class1
     {
         string x = "hari added";
-        x="Editing in Github";
+       string xx = "Editing in Github";
     }
 }
