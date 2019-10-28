@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         string x = "hari added";
         string yy = "Editing in Github";
-        public int Add(int x1, int x2)
+        public int Add()
         {
             return   x1 + x2;            
         }
