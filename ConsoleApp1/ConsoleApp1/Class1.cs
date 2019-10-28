@@ -8,6 +8,6 @@ namespace ConsoleApp1
 {
     class Class1
     {
-        string x = 'hari added';
+        string x = "hari added";
     }
 }
