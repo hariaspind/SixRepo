@@ -13,11 +13,14 @@ namespace ConsoleApp1
         public int Add(int x1,int x2)
         {
             //modified-1 
+
             //added feature 1
+            //Added feature 2
             //Added feature 3
             //Added feature 5
             
             //Added feature 7
+
             return   x1 + x2;            
         }
 
