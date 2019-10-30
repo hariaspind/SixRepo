@@ -14,6 +14,9 @@ namespace ConsoleApp1
         {
             //modified-1 
             //added feature 1
+            //Added feature 3
+            //Added feature 5
+            
             //Added feature 7
             return   x1 + x2;            
         }
