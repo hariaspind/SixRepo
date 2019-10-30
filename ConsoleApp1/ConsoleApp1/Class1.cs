@@ -17,10 +17,9 @@ namespace ConsoleApp1
             //added feature 1
             //Added feature 2
             //Added feature 3
-            //Added feature 5
-            
-            //Added feature 7
-
+            //Added feature 5            
+            //Added feature 7            
+            //Added feature 8
             return   x1 + x2;            
         }
 
